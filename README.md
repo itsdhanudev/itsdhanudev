@@ -1,6 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
+<h2 align="left">👋 Hey there! I'm <span style="font-weight:900; color:#00FFFF;">DHANU</span> — a kid developer from <span style="font-weight:900; color:#FFD700;">INDIA 🇮🇳</span></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsdhanudev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
