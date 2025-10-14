@@ -4,13 +4,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:itsdhanudev?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
-
-<h5 align="left">HELLO 👋!!!<br>My Name Is Dhanu<br>I am From India</h5>
+𝗠𝘆 𝗡𝗮𝗺𝗲 𝗶𝘀 𝗗𝗵𝗮𝗻𝘂 <br>
+𝐢 𝐀𝐦 𝐅𝐫𝐨𝐦 𝐈𝐍𝐃𝐈𝐀
 
 ###
 
