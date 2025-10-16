@@ -32,13 +32,13 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsdhanudev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdhanudev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsdhanudev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsdhanudev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" alt="Top Languages" />
 </div>
 
 ###
 
-<img align="left" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMG5qczgybjVsbWQxdjJrdmp2ZDVoM3Q2NW1mcjd2cmltMWVieDk2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLJxQtX8Hs7XytaoyX/giphy.gif"  />
+<img align="left" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMG5qczgybjVsbWQxdjJrdmp2ZDVoM3Q2NW1mcjd2cmltMWVieDk2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLJxQtX8Hs7XytaoyX/giphy.gif" alt="GIF Animation" />
 
 ###
 
@@ -65,14 +65,14 @@
 ###
 
 <div align="right">
-  <img src="https://streak-stats.demolab.com?user=itsdhanudev&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=itsdhanudev&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=itsdhanudev&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="GitHub Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsdhanudev&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="GitHub Trophy" />
 </div>
 
 ###
 
 <div align="right">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsdhanudev&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsdhanudev&radius=16&theme=github-dark&area=true" height="300" alt="GitHub Activity Graph" />
 </div>
 
 ###
