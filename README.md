@@ -3,7 +3,11 @@
 </div>
 
 -------
+<div align="center">
+  <img src="https://count.getloli.com/@:itsdhanudev?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
+###
 ###
 
 𝗠𝘆 𝗡𝗮𝗺𝗲 𝗶𝘀 𝗗𝗵𝗮𝗻𝘂 <br>
